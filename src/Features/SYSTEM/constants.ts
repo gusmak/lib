@@ -1,0 +1,20 @@
+export const Constants = {
+    CREATE_PATH: 'Create',
+    EDIT_PATH: 'Edit',
+    ADD_EXISTED_USER: 'AddExistedUser',
+    VIEW_PATH: 'View',
+    OTHER_PATH: '/*',
+    CREATE_ALL_PATH: 'CreateAll',
+    WORKSPACE_SHARING_PATH: 'WorkspaceSharing',
+    WORKSPACE_SHARING_CONFIG_PATH: 'Config',
+    DIRECTORY_PERMISSION: 'Permission',
+    SYSTEM_DIRECTORY_PERMISSION: 'SystemDirectory/Permission',
+    PERMISSION_CODE: {
+        FULL_CONTROL: 31,
+        MODIFY: 15,
+        WRITE: 4,
+        READ_AND_EXECUTE: 3,
+        READ: 2,
+        LIST_FOLDER_CONTENTS: 1,
+    },
+};

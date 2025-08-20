@@ -1,0 +1,2 @@
+export const SET_SNAP_TAGS_ALL_TIMEOUT = 5000;
+export const MAX_TAG_TITLE_LENGTH = 26;

@@ -1,0 +1,48 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "useDefineForClassFields": true,
+    "lib": ["es2015", "ES2020", "DOM", "DOM.Iterable", "esnext"],
+    "module": "ESNext",
+    "skipLibCheck": true,
+
+    /* Bundler mode */
+    "moduleResolution": "node",
+    "isolatedModules": true,
+    "jsx": "react-jsx",
+    "jsxImportSource": "react",
+
+    /* Linting */
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noFallthroughCasesInSwitch": true,
+
+
+    /* Old Config */ 
+    "outDir": "dist",
+    "declaration": true,
+    "allowJs": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "baseUrl": "./src",
+    "noEmit": true,
+    "paths": {
+      "AWING/*": ["AWING/*"],
+      "Features/*": ["Features/*"],
+      "Commons/*": ["Commons/*"],
+      "Context/*": ["Context/*"],
+      "Themes/*": ["Themes/*"],
+      "translate/*": ["translate/*"],
+      "Utils/*": ["Utils/*"],
+    }
+  },
+  "exclude": [
+      "./lib",
+      "./dist",
+      "node_modules", 
+  ],
+  "include": ["src", "src/global.d.ts"] 
+}

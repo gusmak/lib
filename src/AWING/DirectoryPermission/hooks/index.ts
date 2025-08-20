@@ -1,0 +1,1 @@
+export { useAuthenMemoByKey } from './useAuthens';

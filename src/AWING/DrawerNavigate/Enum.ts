@@ -1,0 +1,8 @@
+export enum DrawerStateEnum {
+    PENDING = 'PENDING',
+    LOADING = 'LOADING',
+    INVALID = 'INVALID',
+    VALID = 'VALID',
+    IN_PROGRESS = 'IN_PROGRESS',
+    SUBMIT_SUCCESS = 'SUBMIT_SUCCESS',
+}

@@ -1,0 +1,644 @@
+[
+    {
+      "code": "01",
+      "parentUnitCode": "",
+      "name": "Thành phố Hà Nội",
+      "type": 0
+    },
+    {
+      "code": "02",
+      "parentUnitCode": "",
+      "name": "Tỉnh Hà Giang",
+      "type": 0
+    },
+    {
+      "code": "04",
+      "parentUnitCode": "",
+      "name": "Tỉnh Cao Bằng",
+      "type": 0
+    },
+    {
+      "code": "06",
+      "parentUnitCode": "",
+      "name": "Tỉnh Bắc Kạn",
+      "type": 0
+    },
+    {
+      "code": "08",
+      "parentUnitCode": "",
+      "name": "Tỉnh Tuyên Quang",
+      "type": 0
+    },
+    {
+      "code": "10",
+      "parentUnitCode": "",
+      "name": "Tỉnh Lào Cai",
+      "type": 0
+    },
+    {
+      "code": "11",
+      "parentUnitCode": "",
+      "name": "Tỉnh Điện Biên",
+      "type": 0
+    },
+    {
+      "code": "12",
+      "parentUnitCode": "",
+      "name": "Tỉnh Lai Châu",
+      "type": 0
+    },
+    {
+      "code": "14",
+      "parentUnitCode": "",
+      "name": "Tỉnh Sơn La",
+      "type": 0
+    },
+    {
+      "code": "15",
+      "parentUnitCode": "",
+      "name": "Tỉnh Yên Bái",
+      "type": 0
+    },
+    {
+      "code": "17",
+      "parentUnitCode": "",
+      "name": "Tỉnh Hoà Bình",
+      "type": 0
+    },
+    {
+      "code": "19",
+      "parentUnitCode": "",
+      "name": "Tỉnh Thái Nguyên",
+      "type": 0
+    },
+    {
+      "code": "20",
+      "parentUnitCode": "",
+      "name": "Tỉnh Lạng Sơn",
+      "type": 0
+    },
+    {
+      "code": "22",
+      "parentUnitCode": "",
+      "name": "Tỉnh Quảng Ninh",
+      "type": 0
+    },
+    {
+      "code": "24",
+      "parentUnitCode": "",
+      "name": "Tỉnh Bắc Giang",
+      "type": 0
+    },
+    {
+      "code": "25",
+      "parentUnitCode": "",
+      "name": "Tỉnh Phú Thọ",
+      "type": 0
+    },
+    {
+      "code": "26",
+      "parentUnitCode": "",
+      "name": "Tỉnh Vĩnh Phúc",
+      "type": 0
+    },
+    {
+      "code": "27",
+      "parentUnitCode": "",
+      "name": "Tỉnh Bắc Ninh",
+      "type": 0
+    },
+    {
+      "code": "30",
+      "parentUnitCode": "",
+      "name": "Tỉnh Hải Dương",
+      "type": 0
+    },
+    {
+      "code": "31",
+      "parentUnitCode": "",
+      "name": "Thành phố Hải Phòng",
+      "type": 0
+    },
+    {
+      "code": "33",
+      "parentUnitCode": "",
+      "name": "Tỉnh Hưng Yên",
+      "type": 0
+    },
+    {
+      "code": "34",
+      "parentUnitCode": "",
+      "name": "Tỉnh Thái Bình",
+      "type": 0
+    },
+    {
+      "code": "35",
+      "parentUnitCode": "",
+      "name": "Tỉnh Hà Nam",
+      "type": 0
+    },
+    {
+      "code": "36",
+      "parentUnitCode": "",
+      "name": "Tỉnh Nam Định",
+      "type": 0
+    },
+    {
+      "code": "37",
+      "parentUnitCode": "",
+      "name": "Tỉnh Ninh Bình",
+      "type": 0
+    },
+    {
+      "code": "38",
+      "parentUnitCode": "",
+      "name": "Tỉnh Thanh Hóa",
+      "type": 0
+    },
+    {
+      "code": "40",
+      "parentUnitCode": "",
+      "name": "Tỉnh Nghệ An",
+      "type": 0
+    },
+    {
+      "code": "42",
+      "parentUnitCode": "",
+      "name": "Tỉnh Hà Tĩnh",
+      "type": 0
+    },
+    {
+      "code": "44",
+      "parentUnitCode": "",
+      "name": "Tỉnh Quảng Bình",
+      "type": 0
+    },
+    {
+      "code": "45",
+      "parentUnitCode": "",
+      "name": "Tỉnh Quảng Trị",
+      "type": 0
+    },
+    {
+      "code": "46",
+      "parentUnitCode": "",
+      "name": "Tỉnh Thừa Thiên Huế",
+      "type": 0
+    },
+    {
+      "code": "48",
+      "parentUnitCode": "",
+      "name": "Thành phố Đà Nẵng",
+      "type": 0
+    },
+    {
+      "code": "49",
+      "parentUnitCode": "",
+      "name": "Tỉnh Quảng Nam",
+      "type": 0
+    },
+    {
+      "code": "51",
+      "parentUnitCode": "",
+      "name": "Tỉnh Quảng Ngãi",
+      "type": 0
+    },
+    {
+      "code": "52",
+      "parentUnitCode": "",
+      "name": "Tỉnh Bình Định",
+      "type": 0
+    },
+    {
+      "code": "54",
+      "parentUnitCode": "",
+      "name": "Tỉnh Phú Yên",
+      "type": 0
+    },
+    {
+      "code": "56",
+      "parentUnitCode": "",
+      "name": "Tỉnh Khánh Hòa",
+      "type": 0
+    },
+    {
+      "code": "58",
+      "parentUnitCode": "",
+      "name": "Tỉnh Ninh Thuận",
+      "type": 0
+    },
+    {
+      "code": "60",
+      "parentUnitCode": "",
+      "name": "Tỉnh Bình Thuận",
+      "type": 0
+    },
+    {
+      "code": "62",
+      "parentUnitCode": "",
+      "name": "Tỉnh Kon Tum",
+      "type": 0
+    },
+    {
+      "code": "64",
+      "parentUnitCode": "",
+      "name": "Tỉnh Gia Lai",
+      "type": 0
+    },
+    {
+      "code": "66",
+      "parentUnitCode": "",
+      "name": "Tỉnh Đắk Lắk",
+      "type": 0
+    },
+    {
+      "code": "67",
+      "parentUnitCode": "",
+      "name": "Tỉnh Đắk Nông",
+      "type": 0
+    },
+    {
+      "code": "68",
+      "parentUnitCode": "",
+      "name": "Tỉnh Lâm Đồng",
+      "type": 0
+    },
+    {
+      "code": "70",
+      "parentUnitCode": "",
+      "name": "Tỉnh Bình Phước",
+      "type": 0
+    },
+    {
+      "code": "72",
+      "parentUnitCode": "",
+      "name": "Tỉnh Tây Ninh",
+      "type": 0
+    },
+    {
+      "code": "74",
+      "parentUnitCode": "",
+      "name": "Tỉnh Bình Dương",
+      "type": 0
+    },
+    {
+      "code": "75",
+      "parentUnitCode": "",
+      "name": "Tỉnh Đồng Nai",
+      "type": 0
+    },
+    {
+      "code": "77",
+      "parentUnitCode": "",
+      "name": "Tỉnh Bà Rịa - Vũng Tàu",
+      "type": 0
+    },
+    {
+      "code": "79",
+      "parentUnitCode": "",
+      "name": "Thành phố Hồ Chí Minh",
+      "type": 0
+    },
+    {
+      "code": "80",
+      "parentUnitCode": "",
+      "name": "Tỉnh Long An",
+      "type": 0
+    },
+    {
+      "code": "82",
+      "parentUnitCode": "",
+      "name": "Tỉnh Tiền Giang",
+      "type": 0
+    },
+    {
+      "code": "83",
+      "parentUnitCode": "",
+      "name": "Tỉnh Bến Tre",
+      "type": 0
+    },
+    {
+      "code": "84",
+      "parentUnitCode": "",
+      "name": "Tỉnh Trà Vinh",
+      "type": 0
+    },
+    {
+      "code": "86",
+      "parentUnitCode": "",
+      "name": "Tỉnh Vĩnh Long",
+      "type": 0
+    },
+    {
+      "code": "87",
+      "parentUnitCode": "",
+      "name": "Tỉnh Đồng Tháp",
+      "type": 0
+    },
+    {
+      "code": "89",
+      "parentUnitCode": "",
+      "name": "Tỉnh An Giang",
+      "type": 0
+    },
+    {
+      "code": "91",
+      "parentUnitCode": "",
+      "name": "Tỉnh Kiên Giang",
+      "type": 0
+    },
+    {
+      "code": "92",
+      "parentUnitCode": "",
+      "name": "Thành phố Cần Thơ",
+      "type": 0
+    },
+    {
+      "code": "93",
+      "parentUnitCode": "",
+      "name": "Tỉnh Hậu Giang",
+      "type": 0
+    },
+    {
+      "code": "94",
+      "parentUnitCode": "",
+      "name": "Tỉnh Sóc Trăng",
+      "type": 0
+    },
+    {
+      "code": "95",
+      "parentUnitCode": "",
+      "name": "Tỉnh Bạc Liêu",
+      "type": 0
+    },
+    {
+      "code": "96",
+      "parentUnitCode": "",
+      "name": "Tỉnh Cà Mau",
+      "type": 0
+    },
+    {
+      "code": "001",
+      "parentUnitCode": "01",
+      "name": "Quận Ba Đình",
+      "type": 1
+    },
+    {
+      "code": "002",
+      "parentUnitCode": "01",
+      "name": "Quận Hoàn Kiếm",
+      "type": 1
+    },
+    {
+      "code": "003",
+      "parentUnitCode": "01",
+      "name": "Quận Tây Hồ",
+      "type": 1
+    },
+    {
+      "code": "004",
+      "parentUnitCode": "01",
+      "name": "Quận Long Biên",
+      "type": 1
+    },
+    {
+      "code": "005",
+      "parentUnitCode": "01",
+      "name": "Quận Cầu Giấy",
+      "type": 1
+    },
+    {
+      "code": "006",
+      "parentUnitCode": "01",
+      "name": "Quận Đống Đa",
+      "type": 1
+    },
+    {
+      "code": "007",
+      "parentUnitCode": "01",
+      "name": "Quận Hai Bà Trưng",
+      "type": 1
+    },
+    {
+      "code": "008",
+      "parentUnitCode": "01",
+      "name": "Quận Hoàng Mai",
+      "type": 1
+    },
+    {
+      "code": "009",
+      "parentUnitCode": "01",
+      "name": "Quận Thanh Xuân",
+      "type": 1
+    },
+    {
+      "code": "016",
+      "parentUnitCode": "01",
+      "name": "Huyện Sóc Sơn",
+      "type": 1
+    },
+    {
+      "code": "017",
+      "parentUnitCode": "01",
+      "name": "Huyện Đông Anh",
+      "type": 1
+    },
+    {
+      "code": "018",
+      "parentUnitCode": "01",
+      "name": "Huyện Gia Lâm",
+      "type": 1
+    },
+    {
+      "code": "019",
+      "parentUnitCode": "01",
+      "name": "Quận Nam Từ Liêm",
+      "type": 1
+    },
+    {
+      "code": "020",
+      "parentUnitCode": "01",
+      "name": "Huyện Thanh Trì",
+      "type": 1
+    },
+    {
+      "code": "021",
+      "parentUnitCode": "01",
+      "name": "Quận Bắc Từ Liêm",
+      "type": 1
+    },
+    {
+      "code": "250",
+      "parentUnitCode": "01",
+      "name": "Huyện Mê Linh",
+      "type": 1
+    },
+    {
+      "code": "268",
+      "parentUnitCode": "01",
+      "name": "Quận Hà Đông",
+      "type": 1
+    },
+    {
+      "code": "269",
+      "parentUnitCode": "01",
+      "name": "Thị xã Sơn Tây",
+      "type": 1
+    },
+    {
+      "code": "271",
+      "parentUnitCode": "01",
+      "name": "Huyện Ba Vì",
+      "type": 1
+    },
+    {
+      "code": "272",
+      "parentUnitCode": "01",
+      "name": "Huyện Phúc Thọ",
+      "type": 1
+    },
+    {
+      "code": "273",
+      "parentUnitCode": "01",
+      "name": "Huyện Đan Phượng",
+      "type": 1
+    },
+    {
+      "code": "274",
+      "parentUnitCode": "01",
+      "name": "Huyện Hoài Đức",
+      "type": 1
+    },
+    {
+      "code": "275",
+      "parentUnitCode": "01",
+      "name": "Huyện Quốc Oai",
+      "type": 1
+    },
+    {
+      "code": "276",
+      "parentUnitCode": "01",
+      "name": "Huyện Thạch Thất",
+      "type": 1
+    },
+    {
+      "code": "277",
+      "parentUnitCode": "01",
+      "name": "Huyện Chương Mỹ",
+      "type": 1
+    },
+    {
+      "code": "278",
+      "parentUnitCode": "01",
+      "name": "Huyện Thanh Oai",
+      "type": 1
+    },
+    {
+      "code": "279",
+      "parentUnitCode": "01",
+      "name": "Huyện Thường Tín",
+      "type": 1
+    },
+    {
+      "code": "280",
+      "parentUnitCode": "01",
+      "name": "Huyện Phú Xuyên",
+      "type": 1
+    },
+    {
+      "code": "281",
+      "parentUnitCode": "01",
+      "name": "Huyện Ứng Hòa",
+      "type": 1
+    },
+    {
+      "code": "282",
+      "parentUnitCode": "01",
+      "name": "Huyện Mỹ Đức",
+      "type": 1
+    },
+    {
+      "code": "00001",
+      "parentUnitCode": "001",
+      "name": "Phường Phúc Xá",
+      "type": 2
+    },
+    {
+      "code": "00004",
+      "parentUnitCode": "001",
+      "name": "Phường Trúc Bạch",
+      "type": 2
+    },
+    {
+      "code": "00006",
+      "parentUnitCode": "001",
+      "name": "Phường Vĩnh Phúc",
+      "type": 2
+    },
+    {
+      "code": "00007",
+      "parentUnitCode": "001",
+      "name": "Phường Cống Vị",
+      "type": 2
+    },
+    {
+      "code": "00008",
+      "parentUnitCode": "001",
+      "name": "Phường Liễu Giai",
+      "type": 2
+    },
+    {
+      "code": "00010",
+      "parentUnitCode": "001",
+      "name": "Phường Nguyễn Trung Trực",
+      "type": 2
+    },
+    {
+      "code": "00013",
+      "parentUnitCode": "001",
+      "name": "Phường Quán Thánh",
+      "type": 2
+    },
+    {
+      "code": "00016",
+      "parentUnitCode": "001",
+      "name": "Phường Ngọc Hà",
+      "type": 2
+    },
+    {
+      "code": "00019",
+      "parentUnitCode": "001",
+      "name": "Phường Điện Biên",
+      "type": 2
+    },
+    {
+      "code": "00022",
+      "parentUnitCode": "001",
+      "name": "Phường Đội Cấn",
+      "type": 2
+    },
+    {
+      "code": "00025",
+      "parentUnitCode": "001",
+      "name": "Phường Ngọc Khánh",
+      "type": 2
+    },
+    {
+      "code": "00028",
+      "parentUnitCode": "001",
+      "name": "Phường Kim Mã",
+      "type": 2
+    },
+    {
+      "code": "00031",
+      "parentUnitCode": "001",
+      "name": "Phường Giảng Võ",
+      "type": 2
+    },
+    {
+      "code": "00034",
+      "parentUnitCode": "001",
+      "name": "Phường Thành Công",
+      "type": 2
+    }
+  ]

@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Fields Component handles tree expansion 1`] = `
+<div>
+  <div
+    data-testid="grid"
+  >
+    <div
+      data-testid="tree-view"
+    >
+      <div
+        data-testid="tree-item"
+      >
+        <div
+          data-testid="tree-label"
+        >
+          <div
+            style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;"
+          >
+            <div
+              data-testid="box"
+            >
+              <span>
+                Test Label
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          data-testid="tree-children"
+        >
+          <div
+            data-testid="field-view"
+          >
+            Test Field 1
+          </div>
+          <div
+            data-testid="field-view"
+          >
+            Test Field 2
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,82 @@
+{
+    "places": [
+        {
+            "name": "Vincom Phạm Ngọc Thạch",
+            "domainId": "1",
+            "id": "1",
+            "groupId": "1"
+        },
+        {
+            "name": "Vincom Bà Triệu",
+            "domainId": "2",
+            "id": "2",
+            "groupId": "2"
+        },
+        {
+            "name": "name 3",
+            "domainId": "3",
+            "id": "3",
+            "groupId": "3"
+        },
+        {
+            "name": "name 4",
+            "domainId": "1",
+            "id": "4",
+            "groupId": "3"
+        },
+        {
+            "name": "name 5",
+            "domainId": "2",
+            "id": "5",
+            "groupId": "2"
+        },
+        {
+            "name": "name 6",
+            "domainId": "3",
+            "id": "6",
+            "groupId": "1"
+        },
+        {
+            "name": "name 7",
+            "domainId": "1",
+            "id": "7",
+            "groupId": "1"
+        },
+        {
+            "name": "name 8",
+            "domainId": "2",
+            "id": "8",
+            "groupId": "1"
+        },
+        {
+            "name": "name 9",
+            "domainId": "1",
+            "id": "9",
+            "groupId": "3"
+        },
+        {
+            "name": "name 10",
+            "domainId": "2",
+            "id": "10",
+            "groupId": "2"
+        },
+        {
+            "name": "name 11",
+            "domainId": "3",
+            "id": "11",
+            "groupId": "1"
+        },
+        {
+            "name": "name 12",
+            "domainId": "1",
+            "id": "12",
+            "groupId": "1"
+        },
+        {
+            "name": "name 13",
+            "domainId": "2",
+            "id": "13",
+            "groupId": "1"
+        }
+    ]
+}
