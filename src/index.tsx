@@ -3,7 +3,7 @@ export * from './Commons';
 export * from './Context';
 export * from './Utils';
 export * from './translate';
-export * from './Features';
+// export * from './Features';
 export * from './Helpers';
 export * from './Layouts';
 export * from './Themes';
